@@ -1,6 +1,7 @@
-Project 1: Natural Language Processing (NLP) for Medical Research Extraction
+Project 1: NLP-Based Extraction of Cellular Niches (Machine Learning & AI) 
 Objective:
 The goal of this project is to extract crucial information from medical research papers and curate a structured dataset to reduce the time needed to understand the overview of an article.
+Notebook: Cellular_Niche_Extraction_using_OpenAILLM
 
 ![alt text](<NLP Project.jpg>)
 
